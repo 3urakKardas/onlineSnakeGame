@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1674672511 source:c:\users\burak\documents\c++ projects\onlinesnakegame\server\serversocket\serversocket.cpp
+	"serverSocket.h"
+
+1674672511 c:\users\burak\documents\c++ projects\onlinesnakegame\server\serversocket\serversocket.h
+	"../socketInit/socketInit.h"
+	"../clientSocket/clientSocket.h"
+	"../gameSession/gameSession.h"
+
+1662728508 c:\users\burak\documents\c++ projects\onlinesnakegame\server\tools\libraries.h
+	<iostream>
+	<winsock.h>
+	<vector>
+	<string>
+	<sstream>
+
+1674672511 source:c:\users\burak\documents\c++ projects\onlinesnakegame\server\main.cpp
+	"serverSocket/serverSocket.h"
+
+1662406928 c:\users\burak\documents\c++ projects\onlinesnakegame\server\socketinit\socketinit.h
+	"../tools/libraries.h"
+
+1674672511 source:c:\users\burak\documents\c++ projects\onlinesnakegame\server\socketinit\socketinit.cpp
+	"socketInit.h"
+
+1662723760 c:\users\burak\documents\c++ projects\onlinesnakegame\server\clientsocket\clientsocket.h
+	"../tools/libraries.h"
+
+1670872343 source:c:\users\burak\documents\c++ projects\onlinesnakegame\server\clientsocket\clientsocket.cpp
+	"clientSocket.h"
+
+1670872343 source:c:\users\burak\documents\c++ projects\onlinesnakegame\server\gamesession\gamesession.cpp
+	"gameSession.h"
+
+1664451525 c:\users\burak\documents\c++ projects\onlinesnakegame\server\gamesession\gamesession.h
+	"../tools/libraries.h"
+

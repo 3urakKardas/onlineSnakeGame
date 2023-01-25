@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1670957048 source:c:\users\burak\documents\c++ projects\onlinesnakegame\client\main.cpp
+	"tools/libraries.h"
+	"game/game.h"
+	<SFML/Graphics.hpp>
+
+1670960394 source:c:\users\burak\documents\c++ projects\onlinesnakegame\client\game\game.cpp
+	"game.h"
+
+1664454222 c:\users\burak\documents\c++ projects\onlinesnakegame\client\game\game.h
+	"../tools/libraries.h"
+	"../shareData.h"
+	"../connectionSocket/connectionSocket.h"
+	"../session/session.h"
+
+1663074545 c:\users\burak\documents\c++ projects\onlinesnakegame\client\tools\libraries.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<winsock.h>
+	<vector>
+	<thread>
+	<string>
+	<sstream>
+
+1664450070 c:\users\burak\documents\c++ projects\onlinesnakegame\client\connectionsocket\connectionsocket.h
+	"../tools/libraries.h"
+	"../command/command.h"
+	"../shareData.h"
+
+1670959433 source:c:\users\burak\documents\c++ projects\onlinesnakegame\client\connectionsocket\connectionsocket.cpp
+	"connectionSocket.h"
+
+1663528836 c:\users\burak\documents\c++ projects\onlinesnakegame\client\command\command.h
+	"../tools/libraries.h"
+
+1663528867 source:c:\users\burak\documents\c++ projects\onlinesnakegame\client\command\command.cpp
+	"command.h"
+
+1664453700 c:\users\burak\documents\c++ projects\onlinesnakegame\client\session\session.h
+	"../tools/libraries.h"
+	"../shareData.h"
+
+1670959346 source:c:\users\burak\documents\c++ projects\onlinesnakegame\client\session\session.cpp
+	"session.h"
+
+1664448339 c:\users\burak\documents\c++ projects\onlinesnakegame\client\sharedata.h
+	"tools/libraries.h"
+
+1664448339 source:c:\users\burak\documents\c++ projects\onlinesnakegame\client\sharedata.cpp
+	"shareData.h"
+
